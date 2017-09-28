@@ -24,7 +24,7 @@ The goals of the project are:
 
 0. Clone this repo
 0. Run `yarn install`
-0. Run `./node_modules/.bin/electron-rebuild`
+0. Run `./node_modules/.bin/electron-rebuild`     (run in powershell terminal)
 0. Run `npm run dev`
 
 ## Publishing Release to github
